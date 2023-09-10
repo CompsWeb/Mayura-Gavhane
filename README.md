@@ -5,5 +5,4 @@ Mayura mam Resume
 
 ## Resume link
 
-<a href="https://compsweb.github.io/Mayura-Gavhane/Mayura%20Mam/"></a>
-Link of resume[Mayura Gavhane](urllink..)
+Link of resume [Mayura Gavhane](https://compsweb.github.io/Mayura-Gavhane/)
