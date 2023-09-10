@@ -1,19 +1,9 @@
-# Portfolio-Comps.
-Comps teachers Portfolio .
+<<<<<<< HEAD
+Mayura mam Resume
+=======
+# Mayura-Gavhane
 
+## Resume link
 
-Rules For Contribution: 
-
-- Take info From the teachers.
-  
-- Fork and Clone this repository template.
-  
-- Add Teachers data in the website.
-  
-- Change the folders name as per the Teachers Name.
-  
-- Send a Pull Request.
-
-- All the protfolio websites of teachers will be hosted on github pages and  this official account will be used.
-
-- All the teachers should have their complete profile updated and then the pages hosted
+<a href="https://compsweb.github.io/Mayura-Gavhane/Mayura%20Mam/"></a>
+>>>>>>> 5ac111b91ee8bfe73d814fb8c6c8dd4caf6b8d22
